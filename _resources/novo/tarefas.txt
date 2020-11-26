@@ -1,0 +1,26 @@
+*** Quem Somos
+- Texto para Opus Dei
+- Foto para o Opus Dei, ex: nosso Padre
+
+*** Direção Espiritual
+- Texto explicativo
+- Algumas orientações
+- Foto + Mini boi do dpois padres
+- Botão
+
+*** Quero Ajudar
+
+Estrutura
+- Explicar a ACERE (brevemente, copiar algum texto)
+- Apresentar as formas de doações
+- Botão para o formulário (igual na campanha da residencia)
+- Seção para Campanhas Econômicas (como os artigos da home. Cada artigo explica e link para a campanha correspondente)
+  > Residência (já pronto)
+  > Estacionamento na fachada (a fazer)
+
+
+* Referências:
+	https://aseja.org/doacoes/
+	https://aseja.org
+	http://clube14bis.org.br/ajude
+

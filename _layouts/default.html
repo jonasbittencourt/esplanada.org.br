@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html>
+
+	<head>
+		<title>{{ page.title }}</title>
+		<meta charset="utf-8" />
+		<meta name="description" content="Centro do Opus Dei para homens em São José dos Campos, São Paulo, Brasil.">
+		<meta property="og:image" content="assets/images/tagimage.png" itemprop="image">
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="{{ page.baseurl }}assets/css/main.css" />
+	</head>
+
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+		<div id="wrapper">
+
+				<!-- Main -->
+				<div id="main">
+					<div class="inner">
+
+						<!-- Header -->
+						{% include header.html %}
+
+						{{ content }}
+
+					</div>
+				</div>
+
+			<!-- Sidebar -->
+			{% include sidebar.html %}
+
+		</div>
+
+		<!-- Scripts -->
+		<script src="{{ page.baseurl }}assets/js/jquery.min.js"></script>
+		<script src="{{ page.baseurl }}assets/js/browser.min.js"></script>
+		<script src="{{ page.baseurl }}assets/js/breakpoints.min.js"></script>
+		<script src="{{ page.baseurl }}assets/js/util.js"></script>
+		<script src="{{ page.baseurl }}assets/js/main.js"></script>
+
+	</body>
+</html>
