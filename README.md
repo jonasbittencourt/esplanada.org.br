@@ -1,8 +1,8 @@
 ---
-layout: default
 title: README
-permalink: /readme
+permalink: /readme/
 baseurl: "/"
+teste: valor
 ---
 
 # Site do Centro Cultural Esplanada

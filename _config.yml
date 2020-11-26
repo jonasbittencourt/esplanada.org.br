@@ -1,0 +1,19 @@
+defaults:
+  - scope:
+      path: "pages/*"
+      type: "pages"
+    values:
+      permalink: /:basename/
+      baseurl: "../"
+
+  - scope:
+      path: "redirects/*"
+      type: "pages"
+    values:
+      permalink: /:basename/
+      baseurl: "../"
+
+  - scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
